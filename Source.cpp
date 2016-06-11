@@ -79,7 +79,7 @@ LRESULT CALLBACK WndProc(HWND hwnd, UINT msg,
 
 	};
 		break;
-
+		//Verificare
 	case WM_COMMAND:
 	{
 					   switch (LOWORD(wParam))
